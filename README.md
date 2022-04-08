@@ -1,4 +1,4 @@
-# Crud-Example
+# CrudOperation Using PlayFrameWork Using Slick-Example
 ***Requirements:-***
 The following are required in order to properly follow along this tutorial the following are required
 -   An IDE (Preferably [IntelliJ IDEA](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC))
