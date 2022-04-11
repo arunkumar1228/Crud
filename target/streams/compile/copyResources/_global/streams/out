@@ -1,0 +1,5 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\Arun\Desktop\Db connection\project-task\conf\application.conf,C:\Users\Arun\Desktop\Db connection\project-task\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\Users\Arun\Desktop\Db connection\project-task\conf\logback.xml,C:\Users\Arun\Desktop\Db connection\project-task\target\scala-2.13\classes\logback.xml)
+[debug] 	(C:\Users\Arun\Desktop\Db connection\project-task\conf\messages,C:\Users\Arun\Desktop\Db connection\project-task\target\scala-2.13\classes\messages)
+[debug] 	(C:\Users\Arun\Desktop\Db connection\project-task\conf\routes,C:\Users\Arun\Desktop\Db connection\project-task\target\scala-2.13\classes\routes)
